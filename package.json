@@ -1,0 +1,23 @@
+{
+  "name": "itpu-mini-landing",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass src/styles/styles.scss src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ibnsafar/itpu-mini-landing.git"
+  },
+  "keywords": [],
+  "author": "Yokub bin Safar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ibnsafar/itpu-mini-landing/issues"
+  },
+  "homepage": "https://gitlab.com/ibnsafar/itpu-mini-landing#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
